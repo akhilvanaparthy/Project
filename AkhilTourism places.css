@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-vector/maha-shivratri-lord-shiva-wishes-card-design_1017-36779.jpg?w=740&t=st=1677567637~exp=1677568237~hmac=8accf2f6eb67b3ab0d6818a9dd8bb01fa54f731c3f0d604240bb7f5531830ae7");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    overflow: auto;
+}
+
+.card-container {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+}
+
+.paragraph {
+    font-family: "Roboto";
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.foot {
+    text-align: center;
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://img.freepik.com/free-vector/lord-shiva-maha-shivratri-shiny-background-with-light-effect_1017-42721.jpg?w=740&t=st=1677506816~exp=1677507416~hmac=8e62d0a8906b92100a669e9fe355ccc1faa47805056f0d8adbe437a8ece04d75");
+    background-size: cover;
+    height: 150vh;
+    overflow: auto;
+}
+
+.favourite-places-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
+
+.favourite-places-card-container {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.favourite-places-card-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.favourite-places-card-description {
+    font-size: 15px;
+}
+
+.button {
+    border-width: 0px;
+    background-color: black;
+    color: orange;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.favourite-places-card-image {
+    height: 120px;
+    width: 120px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/landscape-shot-beautiful-cholatse-mountains-body-water-khumbu-nepal_181624-24825.jpg?size=626&ext=jpg&uid=R94326172&ga=GA1.2.2126244367.1677082581&semt=sph");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: purple;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
